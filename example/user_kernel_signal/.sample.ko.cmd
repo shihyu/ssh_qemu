@@ -1,0 +1,1 @@
+cmd_/home/shihyu/ssh_qemu/example/user_kernel_signal/sample.ko := ld -r -m elf_x86_64 -T /home/shihyu/ssh_qemu/linux_src/scripts/module-common.lds --build-id  -o /home/shihyu/ssh_qemu/example/user_kernel_signal/sample.ko /home/shihyu/ssh_qemu/example/user_kernel_signal/sample.o /home/shihyu/ssh_qemu/example/user_kernel_signal/sample.mod.o
